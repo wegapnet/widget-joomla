@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="4.0" group="system" method="upgrade">
+    <name>plg_system_wegap_widget</name>
+    <author>Wegap</author>
+    <version>1.0.0</version>
+    <description>Wegap Widget integration plugin for Joomla</description>
+    <files>
+        <filename plugin="wegap_widget">wegap_widget.php</filename>
+    </files>
+</extension>
